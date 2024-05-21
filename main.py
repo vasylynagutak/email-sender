@@ -14,7 +14,7 @@ RECIEVER_EMAIL = os.getenv("RECIEVER_EMAIL")
 
 now = dt.datetime.now()
 day_of_week = now.weekday()
-if day_of_week == now:
+if day_of_week == 2:
     with open("quotes.txt") as quotes_file:
         all_quotes = quotes_file.readlines()
         quote = random.choice(all_quotes)
