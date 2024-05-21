@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="email-sender-day32" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
-    <module name="email-sender-day32" />
+  <configuration default="false" name="email-sender" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
+    <module name="email-sender" />
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
     <option name="SDK_HOME" value="" />
